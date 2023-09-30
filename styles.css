@@ -1,0 +1,61 @@
+/* Resetting default styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+h1 {
+    background-color: #c984e4;
+    color: #fff;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Main Content Section Styles */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ae8ece;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Button Styles */
+button {
+    background-color: #660cce;
+    color:#fff;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Button Hover Styles */
+button:hover {
+    background-color: #e112de;
+}
+
+/* Paragraph Styles */
+p {
+    margin: 10px 0;
+}
+
+/* Story Display Styles */
+#story {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Reset Button Styles */
+#reset {
+    background-color: #e74c3c;
+}
+
+/* Reset Button Hover Styles */
+#reset:hover {
+    background-color: #c0392b;
+}
